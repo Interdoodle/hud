@@ -4,8 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:interdoodle/hud",
   "author": "Conail Stewart <conailstewart@gmail.com>",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "dependencies": {
+    "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   }
 }
