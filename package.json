@@ -1,0 +1,11 @@
+{
+  "name": "hud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:interdoodle/hud",
+  "author": "Conail Stewart <conailstewart@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+    "webpack-dev-server": "^1.16.2"
+  }
+}
